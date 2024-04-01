@@ -4,7 +4,7 @@
 Weather is the state of the atmosphere, describing for example the degree to which it is hot or cold, wet or dry, calm or stormy, clear or cloudy. .
 
 
-## Deployment
+## Deployment 🚀 
 
 To deploy this project run
 
@@ -33,8 +33,7 @@ To deploy this project run
 | `id`      | `string` | **Required**. Id as state name  |
 
 
-## 🚀 About Me
-I'm a full stack developer...
+
 
 
 ## Tech Stack
