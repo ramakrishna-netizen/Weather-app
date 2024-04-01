@@ -1,0 +1,95 @@
+body {
+
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #222;
+    color: white;
+
+
+}
+
+
+.app-card-top input {
+
+
+    border: none;
+    outline: none;
+    font-size: large;
+    padding: 0.8rem;
+    margin-left: 10px;
+    margin-right: 9px;
+    border-radius: 26px;
+}
+
+.app-card-top button {
+
+    border: none;
+    border-radius: 20px;
+    padding: 13px;
+    cursor: pointer;
+
+}
+
+
+.app-card {
+
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    margin-top: 20%;
+    border-radius: 1rem;
+    border: none;
+
+    padding: 1.5rem;
+    height: 50vh;
+    width: 25vw;
+
+
+}
+
+.info {
+
+
+    margin: 1rem;
+
+}
+
+.info {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 2.5rem;
+
+}
+
+.info img {
+    height: 30%;
+    width: 30%;
+}
+
+.temp {
+
+    font-size: 3.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.country {
+    font-size: 4rem;
+}
+
+.bottom {
+    display: flex;
+   
+    justify-content: space-between;
+    font-size: large;
+
+}
+
+.bottom span{
+
+    font-size: 1.8rem;
+}
