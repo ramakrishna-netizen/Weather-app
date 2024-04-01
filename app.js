@@ -52,8 +52,12 @@ async function search(e) {
 
 
             temp1.innerText =data.main['temp']+"°C";
-            wind.innerText = data.wind['speed'] + "kmph";
-            humid.innerText = data.main['humidity'];
+            wind.innerHTML = data.wind['speed'] + "kmph"+`<br />
+            <span class="humid">Wind Speed</span></span
+          >`;
+            humid.innerHTML = data.main['humidity'] + '%' + `<br />
+            <span class="humid">Humidity</span></span
+          >`;
             _country.innerText = data['name'];
             input_country.value = "";
         }
