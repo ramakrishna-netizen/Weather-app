@@ -42,6 +42,10 @@ I'm a full stack developer...
 HTML, CSS, JAVASCRIPT
 
 
+## Screenshots
+
+![App Screenshot](https://github.com/ramakrishna-netizen/Weather-app/blob/main/screenshot/Screenshot1.png)
+
 
 
 ## Authors
